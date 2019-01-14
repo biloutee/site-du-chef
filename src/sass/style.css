@@ -8,7 +8,7 @@
   min-height: 62rem;
 }
 
-.milieu {
+.Centrer {
   margin-right: 50px;
   margin-left: 50px;
 }
@@ -34,7 +34,7 @@ ul li:hover {
   background-color: #A52A2A;
 }
 
-.centre {
+.PositionText {
   margin-top: 300px;
 }
 
@@ -48,7 +48,7 @@ ul li:hover {
   font-size: 90px;
 }
 
-.roug {
+.SurlignerRouge {
   font-size: 70px;
   color: #A52A2A;
 }
@@ -408,7 +408,6 @@ section {
 .date-12april {
   background-color: #CA234F;
   max-width: 70%;
-  padding: 15px;
   border-radius: 10px;
   position: relative;
   bottom: 0.7cm;
@@ -418,7 +417,6 @@ section {
 .date-12april2 {
   background-color: #CA234F;
   max-width: 70%;
-  padding: 15px;
   border-radius: 10px;
   position: relative;
   bottom: 0.7cm;

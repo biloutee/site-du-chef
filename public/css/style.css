@@ -1,4 +1,4 @@
-.arriere {
+.FontHeader {
   width: 100%;
   background: linear-gradient(to bottom, rgba(22, 22, 22, 0.8) 0, rgba(22, 22, 22, 0.8)), url("../../image/banner1.jpg");
   background-position: center;
@@ -7,7 +7,7 @@
   min-height: 62rem;
 }
 
-.milieu {
+.LogoCentrer {
   margin-right: 50px;
   margin-left: 50px;
 }
@@ -25,7 +25,7 @@ ul li {
   text-transform: uppercase;
 }
 
-.rouge {
+.BgRouge {
   background-color: #A52A2A;
 }
 
@@ -33,26 +33,26 @@ ul li:hover {
   background-color: #A52A2A;
 }
 
-.centre {
+.PositionText {
   margin-top: 300px;
 }
 
-.fnt {
+.PoliceText {
   font-size: 50px;
   color: white;
   font-family: "Courgette", cursive;
 }
 
-.gras {
+.TextGras {
   font-size: 90px;
 }
 
-.roug {
+.SurlignerRouge {
   font-size: 70px;
   color: #A52A2A;
 }
 
-.gros {
+.PoliceHaeder {
   font-size: 70px;
 }
 
@@ -89,18 +89,18 @@ a.btn-defaultt {
   background-image: url("../../image/main_bg.jpg");
 }
 
-section {
+.sectionParti5 {
   padding: 40px 0px;
 }
 
-.carre {
+.triangle {
   border: 1px solid #e4e4e4;
   background-color: #fff;
   padding: 0px 0px 0px;
   background: url("../../image/box-left-top.png") left top no-repeat, url("../../image/box-right-top.png") right top no-repeat, url("../../image/box-bottom-left.png") left bottom no-repeat, url("../../image/box-bottom_right.png") right bottom no-repeat white;
 }
 
-.membre {
+.equipe {
   width: 100%;
   background: linear-gradient(to bottom, rgba(22, 22, 22, 0.9) 0, rgba(22, 22, 22, 0.9)), url("./img/team_background.jpg");
   background-position: center;
@@ -113,17 +113,17 @@ section {
   font-family: "Courgette", cursive;
 }
 
-.membre .row .col-3 h2 {
+.equipe .row .col-3 h2 {
   color: white;
   font-size: 12px;
   text-align: center;
 }
 
-.membre img {
+.equipe .img {
   text-align: center;
 }
 
-.logo {
+.logoCafer {
   font-size: 65px;
   color: red;
 }
@@ -132,7 +132,7 @@ section {
   margin-left: 125px;
 }
 
-.logoA {
+.logoMenu {
   font-size: 65px;
   color: #aaa5a5;
 }
@@ -146,7 +146,7 @@ section {
   display: inline;
 }
 
-.img {
+.imageCafer {
   width: 85px;
   height: 85px;
   -moz-border-radius: 75px;
@@ -294,7 +294,7 @@ section {
   margin-left: 50px;
 }
 
-.in-all {
+.ClientTestimonials {
   width: 70%;
   padding: 10px;
   border-radius: 10px;
@@ -303,7 +303,7 @@ section {
   background-color: white;
 }
 
-.kdg {
+.BgTestimonials {
   background-image: url("../../image/testimonials_background.jpg");
   width: 100%;
   height: auto;
@@ -315,7 +315,7 @@ section {
   color: white;
 }
 
-.hgf {
+.TextTestimonials {
   border-radius: 10px;
   border-color: white;
   border-style: solid;
@@ -323,12 +323,12 @@ section {
   padding: 10px;
 }
 
-.sze {
+.taillePolice {
   color: #CA234F;
   font-size: 50px;
 }
 
-.yh {
+.decoImageTestimonial {
   border-radius: 50%;
   border-color: white;
   border-style: solid;
@@ -351,14 +351,14 @@ section {
   color: black;
 }
 
-.sdc {
+.etiquetteOurContact {
   background-color: #CA234F;
   max-width: 30%;
   border-radius: 10px;
   margin: auto;
 }
 
-.brbo {
+.DepartageInterieurEtiquette {
   border-bottom-style: solid;
   border-bottom-color: white;
   border-bottom-width: 2px;
@@ -375,14 +375,14 @@ section {
   background-image: url("../../image/footer_background.jpg");
 }
 
-.repm {
+.DecoContourFooter {
   background-image: url("../../image/footer_bottom_decoration_img.png");
   background-repeat: repeat;
   width: 100%;
   height: 10px;
 }
 
-.pml {
+.EmoticoneSocial {
   font-size: 30px;
   letter-spacing: 20px;
 }
